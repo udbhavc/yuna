@@ -1,4 +1,6 @@
 import tweets
+import sys
+from os import environ
 import utils
 import tweepy
 import theme
